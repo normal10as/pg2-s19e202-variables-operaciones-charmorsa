@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\facultad\\SEGUNDO\\PROGRAMACION 2\\trabajos\\VARIABLES\\VARIABLES\\VARIABLES.vbproj": {}
+    "E:\\facultad\\SEGUNDO\\PROGRAMACION 2\\trabajos\\VARIABLES\\pg2-s19e202-variables-operaciones-charmorsa\\VARIABLES\\VARIABLES\\VARIABLES.vbproj": {}
   },
   "projects": {
-    "E:\\facultad\\SEGUNDO\\PROGRAMACION 2\\trabajos\\VARIABLES\\VARIABLES\\VARIABLES.vbproj": {
+    "E:\\facultad\\SEGUNDO\\PROGRAMACION 2\\trabajos\\VARIABLES\\pg2-s19e202-variables-operaciones-charmorsa\\VARIABLES\\VARIABLES\\VARIABLES.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\facultad\\SEGUNDO\\PROGRAMACION 2\\trabajos\\VARIABLES\\VARIABLES\\VARIABLES.vbproj",
+        "projectUniqueName": "E:\\facultad\\SEGUNDO\\PROGRAMACION 2\\trabajos\\VARIABLES\\pg2-s19e202-variables-operaciones-charmorsa\\VARIABLES\\VARIABLES\\VARIABLES.vbproj",
         "projectName": "VARIABLES",
-        "projectPath": "E:\\facultad\\SEGUNDO\\PROGRAMACION 2\\trabajos\\VARIABLES\\VARIABLES\\VARIABLES.vbproj",
+        "projectPath": "E:\\facultad\\SEGUNDO\\PROGRAMACION 2\\trabajos\\VARIABLES\\pg2-s19e202-variables-operaciones-charmorsa\\VARIABLES\\VARIABLES\\VARIABLES.vbproj",
         "packagesPath": "C:\\Users\\wasti\\.nuget\\packages\\",
-        "outputPath": "E:\\facultad\\SEGUNDO\\PROGRAMACION 2\\trabajos\\VARIABLES\\VARIABLES\\obj\\",
+        "outputPath": "E:\\facultad\\SEGUNDO\\PROGRAMACION 2\\trabajos\\VARIABLES\\pg2-s19e202-variables-operaciones-charmorsa\\VARIABLES\\VARIABLES\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
