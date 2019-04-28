@@ -3,9 +3,13 @@ Imports System
 Module Program
     Sub Main(args As String())
         Dim nombre, lugar, calle As String
-        Dim documento, temperatura, altura_calle, habitantes, altura As Integer
+        Dim temperatura As SByte
+        Dim documento, kms, kilos As ULong
+        Dim altura_calle, profundidad As UShort
+        Dim habitantes As UInteger
+        Dim altura As Byte
         Dim fecha As Date
-        Dim kms, profundidad, kilos, total As Double
+        Dim total As Decimal
         Dim nacionalidad As Boolean
 
         nombre = "FABIO"
