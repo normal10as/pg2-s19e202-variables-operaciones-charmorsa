@@ -1,0 +1,11 @@
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\MATEMATICA1\bin\Debug\netcoreapp2.1\MATEMATICA1.deps.json
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\MATEMATICA1\bin\Debug\netcoreapp2.1\MATEMATICA1.runtimeconfig.json
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\MATEMATICA1\bin\Debug\netcoreapp2.1\MATEMATICA1.runtimeconfig.dev.json
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\MATEMATICA1\bin\Debug\netcoreapp2.1\MATEMATICA1.dll
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\MATEMATICA1\bin\Debug\netcoreapp2.1\MATEMATICA1.pdb
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\MATEMATICA1\obj\Debug\netcoreapp2.1\MATEMATICA1.vbprojAssemblyReference.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\MATEMATICA1\obj\Debug\netcoreapp2.1\MATEMATICA1.vbproj.CoreCompileInputs.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\MATEMATICA1\obj\Debug\netcoreapp2.1\MATEMATICA1.AssemblyInfoInputs.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\MATEMATICA1\obj\Debug\netcoreapp2.1\MATEMATICA1.AssemblyInfo.vb
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\MATEMATICA1\obj\Debug\netcoreapp2.1\MATEMATICA1.dll
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\MATEMATICA1\obj\Debug\netcoreapp2.1\MATEMATICA1.pdb

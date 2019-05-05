@@ -1,0 +1,4 @@
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\CADENAS1\obj\Debug\netcoreapp2.1\CADENAS1.vbprojAssemblyReference.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\CADENAS1\obj\Debug\netcoreapp2.1\CADENAS1.vbproj.CoreCompileInputs.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\CADENAS1\obj\Debug\netcoreapp2.1\CADENAS1.AssemblyInfoInputs.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\CADENAS1\obj\Debug\netcoreapp2.1\CADENAS1.AssemblyInfo.vb

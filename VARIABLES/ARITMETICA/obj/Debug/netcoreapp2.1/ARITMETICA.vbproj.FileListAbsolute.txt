@@ -1,0 +1,11 @@
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\ARITMETICA\bin\Debug\netcoreapp2.1\ARITMETICA.deps.json
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\ARITMETICA\bin\Debug\netcoreapp2.1\ARITMETICA.runtimeconfig.json
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\ARITMETICA\bin\Debug\netcoreapp2.1\ARITMETICA.runtimeconfig.dev.json
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\ARITMETICA\bin\Debug\netcoreapp2.1\ARITMETICA.dll
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\ARITMETICA\bin\Debug\netcoreapp2.1\ARITMETICA.pdb
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\ARITMETICA\obj\Debug\netcoreapp2.1\ARITMETICA.vbprojAssemblyReference.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\ARITMETICA\obj\Debug\netcoreapp2.1\ARITMETICA.vbproj.CoreCompileInputs.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\ARITMETICA\obj\Debug\netcoreapp2.1\ARITMETICA.AssemblyInfoInputs.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\ARITMETICA\obj\Debug\netcoreapp2.1\ARITMETICA.AssemblyInfo.vb
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\ARITMETICA\obj\Debug\netcoreapp2.1\ARITMETICA.dll
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\ARITMETICA\obj\Debug\netcoreapp2.1\ARITMETICA.pdb

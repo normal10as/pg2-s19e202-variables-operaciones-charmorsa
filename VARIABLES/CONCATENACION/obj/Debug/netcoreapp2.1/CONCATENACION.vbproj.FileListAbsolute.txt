@@ -1,0 +1,11 @@
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\CONCATENACION\bin\Debug\netcoreapp2.1\CONCATENACION.deps.json
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\CONCATENACION\bin\Debug\netcoreapp2.1\CONCATENACION.runtimeconfig.json
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\CONCATENACION\bin\Debug\netcoreapp2.1\CONCATENACION.runtimeconfig.dev.json
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\CONCATENACION\bin\Debug\netcoreapp2.1\CONCATENACION.dll
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\CONCATENACION\bin\Debug\netcoreapp2.1\CONCATENACION.pdb
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\CONCATENACION\obj\Debug\netcoreapp2.1\CONCATENACION.vbprojAssemblyReference.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\CONCATENACION\obj\Debug\netcoreapp2.1\CONCATENACION.vbproj.CoreCompileInputs.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\CONCATENACION\obj\Debug\netcoreapp2.1\CONCATENACION.AssemblyInfoInputs.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\CONCATENACION\obj\Debug\netcoreapp2.1\CONCATENACION.AssemblyInfo.vb
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\CONCATENACION\obj\Debug\netcoreapp2.1\CONCATENACION.dll
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\CONCATENACION\obj\Debug\netcoreapp2.1\CONCATENACION.pdb

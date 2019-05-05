@@ -1,0 +1,11 @@
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\REFRASE\bin\Debug\netcoreapp2.1\REFRASE.deps.json
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\REFRASE\bin\Debug\netcoreapp2.1\REFRASE.runtimeconfig.json
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\REFRASE\bin\Debug\netcoreapp2.1\REFRASE.runtimeconfig.dev.json
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\REFRASE\bin\Debug\netcoreapp2.1\REFRASE.dll
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\REFRASE\bin\Debug\netcoreapp2.1\REFRASE.pdb
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\REFRASE\obj\Debug\netcoreapp2.1\REFRASE.vbprojAssemblyReference.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\REFRASE\obj\Debug\netcoreapp2.1\REFRASE.vbproj.CoreCompileInputs.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\REFRASE\obj\Debug\netcoreapp2.1\REFRASE.AssemblyInfoInputs.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\REFRASE\obj\Debug\netcoreapp2.1\REFRASE.AssemblyInfo.vb
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\REFRASE\obj\Debug\netcoreapp2.1\REFRASE.dll
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\REFRASE\obj\Debug\netcoreapp2.1\REFRASE.pdb

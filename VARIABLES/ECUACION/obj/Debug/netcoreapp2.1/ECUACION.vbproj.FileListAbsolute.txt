@@ -1,0 +1,11 @@
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\ECUACION\bin\Debug\netcoreapp2.1\ECUACION.deps.json
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\ECUACION\bin\Debug\netcoreapp2.1\ECUACION.runtimeconfig.json
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\ECUACION\bin\Debug\netcoreapp2.1\ECUACION.runtimeconfig.dev.json
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\ECUACION\bin\Debug\netcoreapp2.1\ECUACION.dll
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\ECUACION\bin\Debug\netcoreapp2.1\ECUACION.pdb
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\ECUACION\obj\Debug\netcoreapp2.1\ECUACION.vbprojAssemblyReference.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\ECUACION\obj\Debug\netcoreapp2.1\ECUACION.vbproj.CoreCompileInputs.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\ECUACION\obj\Debug\netcoreapp2.1\ECUACION.AssemblyInfoInputs.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\ECUACION\obj\Debug\netcoreapp2.1\ECUACION.AssemblyInfo.vb
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\ECUACION\obj\Debug\netcoreapp2.1\ECUACION.dll
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\ECUACION\obj\Debug\netcoreapp2.1\ECUACION.pdb

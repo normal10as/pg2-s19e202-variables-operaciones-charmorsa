@@ -1,0 +1,11 @@
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\VARIABLES_TIPOS\bin\Debug\netcoreapp2.1\VARIABLES_TIPOS.deps.json
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\VARIABLES_TIPOS\bin\Debug\netcoreapp2.1\VARIABLES_TIPOS.runtimeconfig.json
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\VARIABLES_TIPOS\bin\Debug\netcoreapp2.1\VARIABLES_TIPOS.runtimeconfig.dev.json
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\VARIABLES_TIPOS\bin\Debug\netcoreapp2.1\VARIABLES_TIPOS.dll
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\VARIABLES_TIPOS\bin\Debug\netcoreapp2.1\VARIABLES_TIPOS.pdb
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\VARIABLES_TIPOS\obj\Debug\netcoreapp2.1\VARIABLES_TIPOS.vbprojAssemblyReference.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\VARIABLES_TIPOS\obj\Debug\netcoreapp2.1\VARIABLES_TIPOS.vbproj.CoreCompileInputs.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\VARIABLES_TIPOS\obj\Debug\netcoreapp2.1\VARIABLES_TIPOS.AssemblyInfoInputs.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\VARIABLES_TIPOS\obj\Debug\netcoreapp2.1\VARIABLES_TIPOS.AssemblyInfo.vb
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\VARIABLES_TIPOS\obj\Debug\netcoreapp2.1\VARIABLES_TIPOS.dll
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\VARIABLES_TIPOS\obj\Debug\netcoreapp2.1\VARIABLES_TIPOS.pdb

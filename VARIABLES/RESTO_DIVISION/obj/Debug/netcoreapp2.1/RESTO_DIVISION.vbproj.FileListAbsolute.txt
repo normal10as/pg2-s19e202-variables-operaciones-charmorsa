@@ -1,0 +1,11 @@
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\RESTO_DIVISION\bin\Debug\netcoreapp2.1\RESTO_DIVISION.deps.json
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\RESTO_DIVISION\bin\Debug\netcoreapp2.1\RESTO_DIVISION.runtimeconfig.json
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\RESTO_DIVISION\bin\Debug\netcoreapp2.1\RESTO_DIVISION.runtimeconfig.dev.json
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\RESTO_DIVISION\bin\Debug\netcoreapp2.1\RESTO_DIVISION.dll
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\RESTO_DIVISION\bin\Debug\netcoreapp2.1\RESTO_DIVISION.pdb
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\RESTO_DIVISION\obj\Debug\netcoreapp2.1\RESTO_DIVISION.vbproj.CoreCompileInputs.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\RESTO_DIVISION\obj\Debug\netcoreapp2.1\RESTO_DIVISION.AssemblyInfoInputs.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\RESTO_DIVISION\obj\Debug\netcoreapp2.1\RESTO_DIVISION.AssemblyInfo.vb
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\RESTO_DIVISION\obj\Debug\netcoreapp2.1\RESTO_DIVISION.dll
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\RESTO_DIVISION\obj\Debug\netcoreapp2.1\RESTO_DIVISION.pdb
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\RESTO_DIVISION\obj\Debug\netcoreapp2.1\RESTO_DIVISION.vbprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\SUMATORIA_MEDIA\bin\Debug\netcoreapp2.1\SUMATORIA_MEDIA.deps.json
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\SUMATORIA_MEDIA\bin\Debug\netcoreapp2.1\SUMATORIA_MEDIA.runtimeconfig.json
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\SUMATORIA_MEDIA\bin\Debug\netcoreapp2.1\SUMATORIA_MEDIA.runtimeconfig.dev.json
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\SUMATORIA_MEDIA\bin\Debug\netcoreapp2.1\SUMATORIA_MEDIA.dll
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\SUMATORIA_MEDIA\bin\Debug\netcoreapp2.1\SUMATORIA_MEDIA.pdb
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\SUMATORIA_MEDIA\obj\Debug\netcoreapp2.1\SUMATORIA_MEDIA.vbprojAssemblyReference.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\SUMATORIA_MEDIA\obj\Debug\netcoreapp2.1\SUMATORIA_MEDIA.vbproj.CoreCompileInputs.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\SUMATORIA_MEDIA\obj\Debug\netcoreapp2.1\SUMATORIA_MEDIA.AssemblyInfoInputs.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\SUMATORIA_MEDIA\obj\Debug\netcoreapp2.1\SUMATORIA_MEDIA.AssemblyInfo.vb
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\SUMATORIA_MEDIA\obj\Debug\netcoreapp2.1\SUMATORIA_MEDIA.dll
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\SUMATORIA_MEDIA\obj\Debug\netcoreapp2.1\SUMATORIA_MEDIA.pdb
