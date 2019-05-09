@@ -1,10 +1,4 @@
-E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\RELOJ\bin\Debug\netcoreapp2.1\RELOJ.deps.json
-E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\RELOJ\bin\Debug\netcoreapp2.1\RELOJ.runtimeconfig.json
-E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\RELOJ\bin\Debug\netcoreapp2.1\RELOJ.runtimeconfig.dev.json
-E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\RELOJ\bin\Debug\netcoreapp2.1\RELOJ.dll
-E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\RELOJ\bin\Debug\netcoreapp2.1\RELOJ.pdb
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\RELOJ\obj\Debug\netcoreapp2.1\RELOJ.vbprojAssemblyReference.cache
 E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\RELOJ\obj\Debug\netcoreapp2.1\RELOJ.vbproj.CoreCompileInputs.cache
 E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\RELOJ\obj\Debug\netcoreapp2.1\RELOJ.AssemblyInfoInputs.cache
 E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\RELOJ\obj\Debug\netcoreapp2.1\RELOJ.AssemblyInfo.vb
-E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\RELOJ\obj\Debug\netcoreapp2.1\RELOJ.dll
-E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\RELOJ\obj\Debug\netcoreapp2.1\RELOJ.pdb

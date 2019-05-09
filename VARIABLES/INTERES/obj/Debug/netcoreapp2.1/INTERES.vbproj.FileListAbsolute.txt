@@ -3,7 +3,6 @@ E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-oper
 E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\INTERES\bin\Debug\netcoreapp2.1\INTERES.runtimeconfig.dev.json
 E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\INTERES\bin\Debug\netcoreapp2.1\INTERES.dll
 E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\INTERES\bin\Debug\netcoreapp2.1\INTERES.pdb
-E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\INTERES\obj\Debug\netcoreapp2.1\INTERES.vbprojAssemblyReference.cache
 E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\INTERES\obj\Debug\netcoreapp2.1\INTERES.vbproj.CoreCompileInputs.cache
 E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\INTERES\obj\Debug\netcoreapp2.1\INTERES.AssemblyInfoInputs.cache
 E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\INTERES\obj\Debug\netcoreapp2.1\INTERES.AssemblyInfo.vb

@@ -1,10 +1,10 @@
-E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\MAYOR\obj\Debug\netcoreapp2.1\MAYOR.vbproj.CoreCompileInputs.cache
-E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\MAYOR\obj\Debug\netcoreapp2.1\MAYOR.AssemblyInfoInputs.cache
-E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\MAYOR\obj\Debug\netcoreapp2.1\MAYOR.AssemblyInfo.vb
 E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\MAYOR\bin\Debug\netcoreapp2.1\MAYOR.deps.json
 E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\MAYOR\bin\Debug\netcoreapp2.1\MAYOR.runtimeconfig.json
 E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\MAYOR\bin\Debug\netcoreapp2.1\MAYOR.runtimeconfig.dev.json
 E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\MAYOR\bin\Debug\netcoreapp2.1\MAYOR.dll
 E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\MAYOR\bin\Debug\netcoreapp2.1\MAYOR.pdb
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\MAYOR\obj\Debug\netcoreapp2.1\MAYOR.vbproj.CoreCompileInputs.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\MAYOR\obj\Debug\netcoreapp2.1\MAYOR.AssemblyInfoInputs.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\MAYOR\obj\Debug\netcoreapp2.1\MAYOR.AssemblyInfo.vb
 E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\MAYOR\obj\Debug\netcoreapp2.1\MAYOR.dll
 E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\MAYOR\obj\Debug\netcoreapp2.1\MAYOR.pdb

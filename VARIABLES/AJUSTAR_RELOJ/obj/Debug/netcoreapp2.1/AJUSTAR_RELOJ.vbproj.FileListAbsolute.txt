@@ -1,0 +1,3 @@
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\AJUSTAR_RELOJ\obj\Debug\netcoreapp2.1\AJUSTAR_RELOJ.vbproj.CoreCompileInputs.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\AJUSTAR_RELOJ\obj\Debug\netcoreapp2.1\AJUSTAR_RELOJ.AssemblyInfoInputs.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\VARIABLES\pg2-s19e202-variables-operaciones-charmorsa\VARIABLES\AJUSTAR_RELOJ\obj\Debug\netcoreapp2.1\AJUSTAR_RELOJ.AssemblyInfo.vb
