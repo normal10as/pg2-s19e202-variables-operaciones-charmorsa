@@ -1,22 +1,22 @@
-﻿Imports System.DateTime
+﻿Imports Microsoft
 Imports Microsoft.VisualBasic.DateAndTime
-
 Module Module1
 
     Sub Main()
-        Dim ano As year
-        Dim mes As month
-        Dim dia As day
-        Dim hora As hour
-        Dim minuto As minute
-        Dim segundo As seconds
+        Dim ano, mes, dia, hora, minuto, segundo As Date
+        ano = Now
+        mes = Now
+        dia = Now
+        hora = Now
+        minuto = Now
+        segundo = Now
 
-        Console.WriteLine("el AñO es " & ano)
-        Console.WriteLine("el MES es" & mes)
-        Console.WriteLine("el DIA es " & dia)
-        Console.WriteLine("la HORA es " & hora)
-        Console.WriteLine("los MINUTOS son " & minuto)
-        Console.WriteLine("los SEGUNDOS son" & segundo)
+        Console.WriteLine("el AñO es " & Year(ano))
+        Console.WriteLine("el MES es " & Month(mes))
+        Console.WriteLine("el DIA es " & Day(dia))
+        Console.WriteLine("la HORA es " & Hour(hora))
+        Console.WriteLine("los MINUTOS son " & Minute(minuto))
+        Console.WriteLine("los SEGUNDOS son " & Second(segundo))
     End Sub
 
 End Module

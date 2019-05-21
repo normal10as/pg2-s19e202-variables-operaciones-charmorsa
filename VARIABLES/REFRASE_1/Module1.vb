@@ -1,28 +1,17 @@
 ﻿Module Module1
 
     Sub Main()
-        Dim a, b, c, d, e As String
-        e = " "
+        Dim palabra, palabranueva, c, resultado As String
         c = "Aunque la cadena sea de oro, sirve para lo mismo "
+        Console.WriteLine(c)
         Console.WriteLine("ingrse una palabra")
-        a = Console.ReadLine()
+        palabra = Console.ReadLine()
         Console.WriteLine("ingrse la palabra que desea reemplazar en la cadena")
-        b = Console.ReadLine()
-
-        d = Split()
-
-        If (d(0) = b) Then
-            c.Replace(b, a)
-        End If
-        If (d(1) = b) Then
-            c.Replace(b, a)
-        End If
-        If (d(2) = b) Then
-            c.Replace(b, a)
-        End If
-        If (d(3) = b) Then
-            c.Replace(b, a)
-        End If
+        palabranueva = Console.ReadLine()
+        palabranueva = " " + palabranueva + " "
+        palabra = " " + palabra + " "
+        resultado = Replace(c, palabra, palabranueva)
+        Console.WriteLine("resultado :" & resultado)
     End Sub
 
 End Module
