@@ -10,7 +10,7 @@
         palabranueva = Console.ReadLine()
         palabranueva = " " + palabranueva + " "
         palabra = " " + palabra + " "
-        resultado = Replace(c, palabra, palabranueva)
+        resultado = Replace(LCase(c), LCase(palabra), palabranueva)
         Console.WriteLine("resultado :" & resultado)
     End Sub
 
